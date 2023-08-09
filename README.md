@@ -1,2 +1,2 @@
 # kartu-jualan
-na
+na kalo
