@@ -1,2 +1,2 @@
 # kartu-jualan
-na kalo ini buat
+na kalo ini buat latihan
