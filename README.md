@@ -1,2 +1,2 @@
 # kartu-jualan
-na kalo ini buat latihan bikin kartu simple bwt
+na kalo ini buat latihan bikin kartu simple bwt para 
