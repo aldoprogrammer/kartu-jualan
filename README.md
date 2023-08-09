@@ -1,2 +1,2 @@
 # kartu-jualan
-na kalo
+na kalo ini
